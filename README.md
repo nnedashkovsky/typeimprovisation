@@ -6,7 +6,7 @@
 - Opensource typefaces
 - Copyright (c) 2020 by NN Type Foundry
 - Licensed under the Licensed under the [SIL Open Font License, Version 1.1](./LICENSE.txt).
-- Website URL: [typeimprovisation.xyz](www.typeimprovisation.xyz)
+- Website URL: [typeimprovisation.xyz](http://typeimprovisation.xyz)
 
 Type improvisation is a collaboration where designers work together to create a font, talking about different topics and broadcasting what is going on.
 
