@@ -1,13 +1,16 @@
 # TIMPRO-First
 
+
+![](https://github.com/nnedashkovsky/typeimprovisation/blob/master/img/timpro_first_hamb.jpg)
+
 - Timpro-First version 1.030; Latin; opensource
 - Created by: NN Type Foundry Nick Nedashkovskiy
 - Designed by: Nick Nedashkovskiy with Vladimir Kolomeytsev, Nikita Gaidook and Lesha Pushkarev 
 - Creation year: 2020
 - Copyright (c) 2020 by NN Type Foundry
 - Licensed under the Licensed under the [SIL Open Font License, Version 1.1](./LICENSE.txt).
-- Website URL: [typeimprovisation.xyz](http://typeimprovisation.xyz)
-- Видео процесса 
+- Website URL: [typeimprovisation.xyz](www.typeimprovisation.xyz)
+- Broadcast (Russian) Youtube[](https://www.youtube.com/watch?v=LHKvc95BF_8&feature=emb_title)
 
 Type improvisation is a collaboration where designers work together to create a font, talking about different topics and broadcasting what is going on.
 
