@@ -27,6 +27,7 @@ AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐĎĐEÉĚÊËĖÈĒĘFGĢHIÍÎÏÌĪĮJKĶLĹĽ
 Stylistic Set 1
 
 **Timpro-First in use**
+images by [Anatolie Micaliuc](https://www.instagram.com/amicaliuc/)
 ![](https://github.com/nnedashkovsky/typeimprovisation/blob/master/img/timpro_first_use.jpg)
 
 [more](https://github.com/nnedashkovsky/typeimprovisation/tree/master/TimproFirst/inUse)
