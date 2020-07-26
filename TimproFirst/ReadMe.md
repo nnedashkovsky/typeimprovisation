@@ -23,8 +23,8 @@ AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐĎĐEÉĚÊËĖÈĒĘFGĢHIÍÎÏÌĪĮJKĶLĹĽ
 aáăâäàāąåãæbcćčçdðďđeéěêëėèēęfghiíîïìīįjklĺľłmnńňŋñoóôöòőōøõœpþqrŕřsśšşßtŧťuúûüùűūģķļņŗţųůvwẃŵẅẁxyýŷÿỳzźžż
 
 ## Timpro-First in use
-[github](https://github.com/nnedashkovsky/typeimprovisation/tree/master/TimproFirst/inUse)
-[instagram](https://www.instagram.com/typeimprovisation/)
+- [github](https://github.com/nnedashkovsky/typeimprovisation/tree/master/TimproFirst/inUse)
+- [instagram](https://www.instagram.com/typeimprovisation/)
 
 ## Changelog
 
