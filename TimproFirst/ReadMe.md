@@ -9,8 +9,8 @@
 - Creation year: 2020
 - Copyright (c) 2020 by NN Type Foundry
 - Licensed under the Licensed under the [SIL Open Font License, Version 1.1](./LICENSE.txt).
-- Website URL: [typeimprovisation.xyz](www.typeimprovisation.xyz)
-- Broadcast (Russian) Youtube[](https://www.youtube.com/watch?v=LHKvc95BF_8&feature=emb_title)
+- Website URL: [typeimprovisation.xyz](http://typeimprovisation.xyz/2/)
+- Broadcast (Russian) [Youtube](https://www.youtube.com/watch?v=LHKvc95BF_8&feature=emb_title)
 
 Type improvisation is a collaboration where designers work together to create a font, talking about different topics and broadcasting what is going on.
 
