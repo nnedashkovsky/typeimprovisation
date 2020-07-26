@@ -5,7 +5,7 @@
 
 - Timpro-First version 1.030; Latin; opensource
 - Created by: NN Type Foundry Nick Nedashkovskiy
-- Designed by: Nick Nedashkovskiy with Vladimir Kolomeytsev, Nikita Gaidook and Lesha Pushkarev 
+- Designed by: [Nick Nedashkovskiy](https://www.instagram.com/nnedashkovskiy/) with [Vladimir Kolomeytsev](https://www.instagram.com/vororya_kolomeytsev/), [Nikita Gaidook](https://www.instagram.com/gaido/) and [Lesha Pushkarev](https://www.instagram.com/pushkarev/) 
 - Creation year: 2020
 - Copyright (c) 2020 by NN Type Foundry
 - Licensed under the Licensed under the [SIL Open Font License, Version 1.1](./LICENSE.txt).
