@@ -30,16 +30,16 @@ aáăâäàāąåãæbcćčçdðďđeéěêëėèēęfghiíîïìīįjklĺľłmn
 
 ### Version 1.030 (2020-07-25)
 
-- Added the glyphs `E.ss01`, `F.ss01`, `M.ss01`, `O.ss01`, `W.ss01`
+- Added the glyphs `E.ss01`, `F.ss01`, `M.ss01`, `N.ss01`, `O.ss01`, `W.ss01`
 - Added OpenType Layout features
 - Updated kerning
-- Autohinted
+- ttfAutohinted
 
 ### Version 1.020 (2020-07-22)
 - Revised metrics
 - Western character set
 - Central character set
-- Autohinted
+- ttfAutohinted
 
 ### Version 1.000 (2020-07-18)
 
